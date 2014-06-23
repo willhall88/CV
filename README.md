@@ -44,14 +44,12 @@ committed three months to learning the latest technologies and best practices at
   - Behaviour driven development with Cucumber
   - Integration testing with Capybara
   - Version control with git and GitHub
-  - JavaScript, jQuery and CoffeeScript
+  - JavaScript and jQuery
   - HTML5 and ERB
   - CSS3, Sass and Twitter Bootstrap 3
   - WebSockets
   - User authentication and authorisation with bcrypt and Devise
   - Integration of APIs including Twilio, Stripe, Paperclip and Google Maps
-  - Mailgun API with RestClient
-  - GitHub Flavoured Markdown
   - Deployment to Heroku
 
 ### Makers Academy
@@ -79,7 +77,7 @@ _Year 2 Modules_: Systems Modelling, Analytical Methods, Mechanics & Materials, 
 Coursework: `Computing`, Laboratory Project, Design
 
 _Year 3 Modules_: Electronics, Control and Signal Processing, Management and Manufacture, Engineering Project, `Software Engineering and Communications`
-Coursework: Final Year Project, CAD, Real Time Computing
+Coursework: Final Year Project, CAD, `Real Time Computing`
 
 
 ###Bradford Grammar School
@@ -97,44 +95,44 @@ Employment History
 __Research and Development Technician__ |   _February 2012 &mdash; March 2014_
 
 
- - Part of the Innovations team, involved in testing and analysis of new and existing products.
- - Extensive testing and benchmarking of Linpac and competitor products for Project Life, a project aimed at improving product strength whilst also reducing material used for a more eco-friendly and cost effective food tray.
- - Created, edited and updated a product database for all tools and products used across the whole company.
- - Constructed a carbon footprint model for trays produced at the UK site. Extended this to cover the carbon footprint for trays produced across each site in Linpac group.
- - Wrote and edited standard operating procedures for new or existing tests.
- - Use of Minitab for data analysis.
+ - Part of the Innovations team, involved in testing and analysis of new and existing products
+ - Extensive testing and benchmarking of Linpac and competitor products for Project Life, a project aimed at improving product strength whilst also reducing material used for a more eco-friendly and cost effective food tray
+ - Created, edited and updated a product database for all tools and products used across the whole company
+ - Constructed a carbon footprint model for trays produced at the UK site. Extended this to cover the carbon footprint for trays produced across each site in Linpac group
+ - Wrote and edited standard operating procedures for new or existing tests
+ - Use of Minitab for data analysis
 
 ###Anchor 
 __Business Support Administrator__  |   _September 2010 &mdash; July 2011_
 
- - Part of a large funding project.
- - Received applications and discussed the applications with the relevant people.
- - Placing orders.
- - Edited and updated databases and files.
- - Handled telephone enquiries.
- - Produced posters and leaflets.
- - Extensive use of Microsoft Office packages including Word and Excel.
+ - Part of a large funding project
+ - Received applications and discussed the applications with the relevant people
+ - Placing orders
+ - Edited and updated databases and files
+ - Handled telephone enquiries
+ - Produced posters and leaflets
+ - Extensive use of Microsoft Office packages including Word and Excel
 
 ###Durham University
 __Administrator__   |   _September 2008 &mdash; July 2009_
 
- - Edited and updated databases and files.
- - Processed large numbers of student records and student assignments onto the university database.
- - Resolved telephone and face-to-face enquiries from students and university staff.
- - Produced posters and leaflets for University marketing.
- - Accepted student assignments.
- - Extensive use of Microsoft Office packages including Word and Excel.
- - Inducted large number of students onto the university database.
- - This was an ongoing temporary role whilst still studying at Durham. 
+ - Edited and updated databases and files
+ - Processed large numbers of student records and student assignments onto the university database
+ - Resolved telephone and face-to-face enquiries from students and university staff
+ - Produced posters and leaflets for University marketing
+ - Accepted student assignments
+ - Extensive use of Microsoft Office packages including Word and Excel
+ - Inducted large number of students onto the university database
+ - This was an ongoing temporary role whilst still studying at Durham 
 
 ###Daletech Electronics 
 __Component Production__    |   _March 2009 &mdash; April 2009_
 
- - Soldered components.
- - Assembled electronic packages and frames for printed circuit boards.
- - Tested printed circuit boards.
- - Produced both surface mount and through hole printed circuit boards.
- - Temporary role whilst studying.
+ - Soldered components
+ - Assembled electronic packages and frames for printed circuit boards
+ - Tested printed circuit boards
+ - Produced both surface mount and through hole printed circuit boards
+ - Temporary role whilst studying
 
 Interests and Activites
 -----------------------
