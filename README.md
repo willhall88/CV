@@ -1,10 +1,8 @@
 Will Hall
 =========
-----------------------------------------------------------------------------
 
 I'm a junior web developer, an accomplished graduate with strong technical skills, and a keen ambition to follow a career in software development. I am highly motivated, responsible, and enjoy a challenge. I graduated from Durham University with a Bachelor of Engineering Honours Degree, specifying in Electronic Engineering in the final year. I am driven to continue learning and gaining experience. Read my code on [GitHub].
 
-----------------------------------------------------------------------------
 Code examples
 -------------
 
@@ -12,7 +10,6 @@ Code examples
 |:--------------- |:-------- |:--------- |
 | | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
-----------------------------------------------------------------------------
 
 Key Skills
 ----------
@@ -27,7 +24,6 @@ Key Skills
  -  Remains calm and focused under pressure and works well within strict deadlines
  -  Independent and resourceful, a quick learner, able to adapt quickly and easily
 
-----------------------------------------------------------------------------
 Software Development
 ---------------
 
@@ -68,7 +64,6 @@ A highly intensive web development course built on the most modern learning tech
   - Pair programming and teamwork
   - Final project: [Angry Kitty App]
  
-----------------------------------------------------------------------------
 Education and Qualifications
 ----------------------------
 
@@ -96,7 +91,6 @@ _AS Levels_: Physical Education (C);
 
 _GCSE’s_ : Mathematics (A); Physics (A); Chemistry (A); Biology (A); Information Technology (B); Design and Technology (B); English Language (B); English Literature(C); German (C); Religious Studies (B)
 
-----------------------------------------------------------------------------
 Employment History
 ------------------
 ###Linpac Packaging
@@ -142,7 +136,6 @@ __Component Production__    |   _March 2009 &mdash; April 2009_
  - Produced both surface mount and through hole printed circuit boards.
  - Temporary role whilst studying.
 
-----------------------------------------------------------------------------
 Interests and Activites
 -----------------------
 
@@ -156,7 +149,6 @@ __Personal Achievements__
 
 _2005–2006_ &mdash; Vice Captain of Bradford Grammar School Boat Club. Responsible for the coaching and organisation of younger pupils.
 
-----------------------------------------------------------------------------
 Find Me
 -------
 I'm `willhall88` on [Github], [LinkedIn] and [Twitter].
