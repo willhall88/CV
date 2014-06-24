@@ -71,10 +71,6 @@ __Bradford__    |   _September 1996 &mdash; July 2006_
 
 _A – Levels_: Mathematics (A); Physics (B); and Electronics (A); 
 
-_AS Levels_: Physical Education (C); 
-
-_GCSE’s_ : Mathematics (A); Physics (A); Chemistry (A); Biology (A); Information Technology (B); Design and Technology (B); English Language (B); English Literature(C); German (C); Religious Studies (B)
-
 Employment History
 ------------------
 ###Linpac Packaging
@@ -102,36 +98,14 @@ __Business Support Administrator__  |   _September 2010 &mdash; July 2011_
 ###Durham University
 __Administrator__   |   _September 2008 &mdash; July 2009_
 
- - Edited and updated databases and files
- - Processed large numbers of student records and student assignments onto the university database
- - Resolved telephone and face-to-face enquiries from students and university staff
- - Produced posters and leaflets for University marketing
- - Accepted student assignments
- - Extensive use of Microsoft Office packages including Word and Excel
- - Inducted large number of students onto the university database
- - This was an ongoing temporary role whilst still studying at Durham 
 
 ###Daletech Electronics 
 __Component Production__    |   _March 2009 &mdash; April 2009_
-
- - Soldered components
- - Assembled electronic packages and frames for printed circuit boards
- - Tested printed circuit boards
- - Produced both surface mount and through hole printed circuit boards
- - Temporary role whilst studying
 
 Interests and Activites
 -----------------------
 
 In my spare time I enjoy playing a variety of sports. I have been rowing for the past 14 years, for which I am also a qualified coach. I also enjoy cycling, surfing and football, which I play socially. I am currently training for triathlons, with the goal of completing an Ironman in 2015/16
-
-__Personal Achievements__
-
- _2008_ &mdash; Elected Captain of Boats for St. Cuthbert’s Society Boat Club.
- 
- _2007–2008_  &mdash; Men’s Novice Development Officer for St Cuthbert’s Society Boat Club, Durham University. I was the head coach of the novice men’s squad.
-
-_2005–2006_ &mdash; Vice Captain of Bradford Grammar School Boat Club. Responsible for the coaching and organisation of younger pupils.
 
 Find Me
 -------
