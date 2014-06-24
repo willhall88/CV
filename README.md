@@ -52,12 +52,12 @@ Education and Qualifications
 ----------------------------
 
 ###Durham University 
-__Durham__  |  _September 2006 &mdash; July 2010_  |  _BEng in Electronic Engineering with Honours_
+_September 2006 &mdash; July 2010_  |  BEng in Electronic Engineering with Honours
 
 Some of my coursework whilst at studying included writing programs in C++ and Matlab.
 
 ###Bradford Grammar School
-__Bradford__  |  _September 1996 &mdash; July 2006_  |  _A – Levels_: Mathematics (A); Physics (B); and Electronics (A); 
+_September 1996 &mdash; July 2006_  |  A – Levels: Mathematics (A); Physics (B); and Electronics (A); 
 
 Employment History
 ------------------
