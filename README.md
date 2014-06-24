@@ -39,7 +39,7 @@ committed three months to learning the latest technologies and best practices at
   - Deployment to Heroku
 
 ### Makers Academy
-__Web Development Bootcamp__ | _March &mdash; June 2014_
+__Web Development Bootcamp__  |  _March &mdash; June 2014_
 
 A highly intensive web development course built on the most modern learning techniques available and focussed on the most current technologies.
   - Highly selective 12 week full-time course
@@ -52,29 +52,20 @@ Education and Qualifications
 ----------------------------
 
 ###Durham University 
-__Durham__  |   _September 2006 &mdash; July 2010_
+__Durham__  |  _September 2006 &mdash; July 2010_
 
 _BEng in Electronic Engineering with Honours_
-
-_Year 1 Modules_: Applied Mechanics, Electrical Engineering, Thermodynamics & Fluid Mechanics, Electronic Fundamentals & Manufacture, Maths for Engineers and Scientists, Technology for the Modern World 
-Coursework: Drawing and CAD, `Computing`, Design
-
-_Year 2 Modules_: Systems Modelling, Analytical Methods, Mechanics & Materials, Manufacture & Electromechanics, Thermodynamics & Fluid Mechanics, Electronics
-Coursework: `Computing`, Laboratory Project, Design
-
-_Year 3 Modules_: Electronics, Control and Signal Processing, Management and Manufacture, Engineering Project, `Software Engineering and Communications`
-Coursework: Final Year Project, CAD, `Real Time Computing`
-
+Some of my coursework whilst at studying included writing programs in C++ and Matlab.
 
 ###Bradford Grammar School
-__Bradford__    |   _September 1996 &mdash; July 2006_
+__Bradford__  |  _September 1996 &mdash; July 2006_
 
 _A – Levels_: Mathematics (A); Physics (B); and Electronics (A); 
 
 Employment History
 ------------------
 ###Linpac Packaging
-__Research and Development Technician__ |   _February 2012 &mdash; March 2014_
+__Research and Development Technician__  |  _February 2012 &mdash; March 2014_
 
 
  - Part of the Innovations team, involved in testing and analysis of new and existing products
@@ -85,7 +76,7 @@ __Research and Development Technician__ |   _February 2012 &mdash; March 2014_
  - Use of Minitab for data analysis
 
 ###Anchor 
-__Business Support Administrator__  |   _September 2010 &mdash; July 2011_
+__Business Support Administrator__  |  _September 2010 &mdash; July 2011_
 
  - Part of a large funding project
  - Received applications and discussed the applications with the relevant people
@@ -96,11 +87,11 @@ __Business Support Administrator__  |   _September 2010 &mdash; July 2011_
  - Extensive use of Microsoft Office packages including Word and Excel
 
 ###Durham University
-__Administrator__   |   _September 2008 &mdash; July 2009_
+__Administrator__  |  _September 2008 &mdash; July 2009_
 
 
 ###Daletech Electronics 
-__Component Production__    |   _March 2009 &mdash; April 2009_
+__Component Production__  |  _March 2009 &mdash; April 2009_
 
 Interests and Activites
 -----------------------
