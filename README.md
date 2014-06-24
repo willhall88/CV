@@ -10,20 +10,6 @@ Code examples
 |:--------------- |:-------- |:--------- |
 |Angry Kitty is a Rails app developed in 2 weeks to help organisers chase participants of an event for contributions. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
-
-Key Skills
-----------
-
- - Excellent organisation and time management developed from working part time at university, training six times a week for rowing as well as coaching three times a week and keeping up to date with university work
- - Leadership skills acquired from organising a squad of 43 people learning to row over a university year and being elected to captain the whole club for the following year
- -  A committed team player and leader, as proven through continous pair programming whilst at [Makers Academy] and working in a group for the [Angry Kitty App] as well as researching topics at university and fitting into different roles within a group
- -  Driven to achieving set goals, reaching targets and exceeding expectations
- - 	Logical and analytical with a good eye for accuracy and attention to detail
- -  A skilled communicator with excellent interpersonal skills at all levels
- -  Welcomes opportunities for self improvement and to learn and develop new skills
- -  Remains calm and focused under pressure and works well within strict deadlines
- -  Independent and resourceful, a quick learner, able to adapt quickly and easily
-
 Software Development
 ---------------
 
