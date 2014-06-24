@@ -8,7 +8,7 @@ Code examples
 
 | [Angry Kitty App] | [Sudoku] | [Airport] |
 |:--------------- |:-------- |:--------- |
-| | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+|Angry Kitty is an app designed to help organisers chase participants of an event for contributions. We created this application in 2 weeks as our final project at Makers Academy, London. We are [Apo], [Dan], [Nico], [Robin], [Scott], [Sroop] and [Will] from the March 2014 cohort of Makers Academy, London!| Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
 
 
 Key Skills
@@ -162,7 +162,15 @@ I'm `willhall88` on [Github], [LinkedIn] and [Twitter].
   [Angry Kitty App]: https://github.com/willhall88/Angry-Kitty
   [Makers Academy]: http://www.makersacademy.com
 
-  
+
+  [Will]:https://github.com/willhall88
+  [Sroop]:https://github.com/sroop
+  [Robin]:https://github.com/robindoble
+  [Scott]:https://github.com/Scott123454
+  [Apo]:https://github.com/apostoiis
+  [Nico]:https://github.com/NicoSa
+  [Dan]:https://github.com/danldb
+
   [willhall88@hotmail.com]: mailto:willhall88@hotmail.com
   [GitHub]: https://github.com/willhall88
   [LinkedIn]: http://linkedin.com/in/willhall88
