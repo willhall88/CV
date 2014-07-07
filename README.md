@@ -121,5 +121,5 @@ I'm `willhall88` on [Github], [LinkedIn] and [Twitter].
 
   [willhall88@hotmail.com]: mailto:willhall88@hotmail.com
   [GitHub]: https://github.com/willhall88
-  [LinkedIn]: http://linkedin.com/in/willhall88
+  [LinkedIn]: http://linkedin.com/in/willhall881
   [Twitter]: http://twitter.com/willhall88
