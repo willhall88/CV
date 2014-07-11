@@ -9,7 +9,7 @@ Code examples
 | Project | Description |
 |:--------------- |:-------- |
 | [Angry Kitty] | Angry Kitty is a Rails app developed in 2 weeks to help organisers chase participants of an event for contributions.
-|[Willstagram| Ruby on Rails app based around the idea of Instagram by posting photos to the website. | 
+|[Willstagram]| Ruby on Rails app based around the idea of Instagram by posting photos to the website. | 
 |[Willdoku] |  Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.|
 | [Airport in Ruby] [Airport in Python]| 100% test-driven model of airports and planes written with an emphasis on code readability. The version written in Ruby uses Rspec as the testing tool. |
 
