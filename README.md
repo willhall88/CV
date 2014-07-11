@@ -6,9 +6,12 @@ I'm a junior web developer, an accomplished graduate with strong technical skill
 Code examples
 -------------
 
-| [Angry Kitty App] | [Sudoku] | [Airport] |
-|:--------------- |:-------- |:--------- |
-|Angry Kitty is a Rails app developed in 2 weeks to help organisers chase participants of an event for contributions. | Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.| 100% test-driven Ruby model of airports and planes written using RSpec with an emphasis on code readability. |
+| Project | Description |
+|:--------------- |:-------- |
+| [Angry Kitty] | Angry Kitty is a Rails app developed in 2 weeks to help organisers chase participants of an event for contributions.
+|[Willstagram| Ruby on Rails app based around the idea of Instagram by posting photos to the website. | 
+|[Willdoku] |  Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.|
+| [Airport in Ruby] [Airport in Python]| 100% test-driven model of airports and planes written with an emphasis on code readability. The version written in Ruby uses Rspec as the testing tool. |
 
 Software Development
 ---------------
@@ -46,7 +49,7 @@ A highly intensive web development course built on the most modern learning tech
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [Angry Kitty App] - an app built in Rails 4 designed to ease the collection of money from friends after organising an event. The app was built with [Apo], [Dan], [Nico], [Robin], [Scott], [Sroop] and [myself]
+  - Final project: [Angry Kitty] - an app built in Rails 4 designed to ease the collection of money from friends after organising an event. The app was built with [Apo], [Dan], [Nico], [Robin], [Scott], [Sroop] and [myself]
  
 Education and Qualifications
 ----------------------------
@@ -105,9 +108,10 @@ I'm `willhall88` on [Github], [LinkedIn] and [Twitter].
 
 
 
-  [Airport]: https://github.com/willhall88/airports
-  [Sudoku]: https://github.com/willhall88/sudoku_webversion
-  [Angry Kitty App]: https://github.com/willhall88/Angry-Kitty
+  [Airport in Ruby]: https://github.com/willhall88/airports
+  [Willstagram]: https://github.com/willhall88/instagram-recreation
+  [Willdoku]: https://github.com/willhall88/sudoku_webversion
+  [Angry Kitty]: https://github.com/willhall88/Angry-Kitty
   [Makers Academy]: http://www.makersacademy.com
 
 
