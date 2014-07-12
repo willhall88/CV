@@ -9,8 +9,9 @@ Code Examples
 | Project | Description |
 |:--------------- |:-------- |
 | [Angry Kitty] | Angry Kitty is a Rails app developed in 2 weeks to help organisers chase participants of an event for contributions.
-|[Willstagram]| Ruby on Rails app based around the idea of Instagram by posting photos to the website. | 
-|[Willdoku] |  Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.|
+| [Willstagram]| Ruby on Rails app based around the idea of Instagram by posting photos to the website. | 
+| [Willdoku] |  Sinatra web app to play Sudoku puzzles with a recursive algorithm to generate and solve puzzles.|
+| [Takeaway]| 100% test-driven model of a takeaway restaurant written in Ruby and tested with Rspec. |
 | [Airport in Ruby] | 100% test-driven model of airports and planes written with an emphasis on code readability. The version written in Ruby uses Rspec as the testing tool. |
 
 Software Development
@@ -107,7 +108,7 @@ I'm `willhall88` on [Github], [LinkedIn] and [Twitter].
 [willhall88@hotmail.com]
 
 
-
+  [Takeaway]:https://github.com/willhall88/takeaway
   [Airport in Ruby]: https://github.com/willhall88/airports
   [Willstagram]: https://github.com/willhall88/instagram-recreation
   [Willdoku]: https://github.com/willhall88/sudoku_webversion
