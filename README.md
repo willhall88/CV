@@ -3,7 +3,7 @@ Will Hall
 
 I'm a junior web developer, an accomplished graduate with strong technical skills, and a keen ambition to follow a career in software development. I am highly motivated, responsible, and enjoy a challenge. I graduated from Durham University with a Bachelor of Engineering Honours Degree, specifying in Electronic Engineering in the final year. I am driven to continue learning and gaining experience. Read my code on [GitHub].
 
-Code examples
+Code Examples
 -------------
 
 | Project | Description |
