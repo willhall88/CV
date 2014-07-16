@@ -26,8 +26,8 @@ committed three months to learning the latest technologies and best practices at
   - Agile values, principles and practice
   - Object­ oriented principles and design
   - Pair programming
-  - Ruby 2.0
-  - Rails 4
+  - Ruby
+  - Rails
   - PostgreSQL
   - Sinatra and DataMapper
   - Unit testing with RSpec and Jasmine
